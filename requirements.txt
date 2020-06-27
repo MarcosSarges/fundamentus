@@ -1,4 +1,5 @@
 # pip3 install -r required.txt
+gunicorn
 Flask>=1.0.0
 itsdangerous>=1.0.0
 Jinja2>=2.10.1
