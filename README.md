@@ -2,7 +2,7 @@
 
 Queria uma api para criar um checklist para ações, mas como não existe, achei esse projeto e só fiz a configuração para o heroku
 
-(API)[https://app-fundaments.herokuapp.com/]
+[API](https://app-fundaments.herokuapp.com/)
 
 # Fundamentus
 
