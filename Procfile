@@ -1,1 +1,1 @@
-web: python server.py runserver 0.0.0.0:$PORT
+web: ON_HEROKU=true python server.py runserver 0.0.0.0:$PORT
