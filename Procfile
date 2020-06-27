@@ -1,1 +1,1 @@
-web: gunicorn -w 2 -b 0.0.0.0:$PORT fund:app
+web: python server.py runserver 0.0.0.0:$PORT
